@@ -64,7 +64,7 @@
     "husky": "^7.0.4",
     "jest": "^27.4.5",
     "lint-staged": "^12.1.2",
-    "moralis": "1.8.0",
+    "moralis": "https://github.com/TEAM-MAPA-DEV-REPO/teammapa-moralis-js-sdk/releases/download/v1.8.0/moralis-1.8.0.tgz",
     "prettier": "^2.5.1",
     "rollup": "^2.61.1",
     "rollup-plugin-cleaner": "^1.0.0",
